@@ -1,0 +1,116 @@
+span.material-symbols-outlined {
+    font-size: 40px;
+}
+
+* {
+    color: aliceblue;
+}
+
+.phone {
+    position: relative;
+    background-image: url(1.jpeg);
+    background-size: cover;
+    background-position: center;
+    display: inline-flex;
+    flex-direction: column;
+    padding: 30px;
+    margin: 30px;
+    height: 800px;
+    width: 400px;
+    border-radius: 30px;
+}
+
+.menu {
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 5%;
+}
+
+#flash:hover {
+    transform: scale(1.5);
+  }
+
+#hdr:hover {
+    transform: scale(1.5);
+  }
+
+#A:hover {
+    transform: scale(1.5);
+  }
+
+#magic:hover {
+    transform: scale(1.5);
+  }
+
+#lens:hover {
+    transform: scale(1.5);
+  }
+
+#burguer:hover {
+    transform: scale(1.5);
+  }
+
+.text {
+    align-self: center;
+    justify-content: center;
+    font-family: 'Rubik Vinyl', cursive;
+    font-weight: bold;
+    font-size: 80px;
+    position: relative;
+    top: 35%;
+}
+
+.options {
+    align-self: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    bottom: -73%;
+}
+
+#pro:hover {
+  color: black;
+  transform: scale(1.5);
+}
+
+#video:hover {
+  color: black;
+  transform: scale(1.5);
+}
+
+#foto1:hover {
+  color: black;
+  transform: scale(1.5);
+}
+
+#retrato:hover {
+  color: black;
+  transform: scale(1.5);
+}
+
+#mas:hover {
+  color: black;
+  transform: scale(1.5);
+}
+
+.photo {
+    align-self: center;
+    position: relative;
+    bottom: -75%;
+}
+
+#carrete:hover {
+  transform: scale(1.5);
+}
+
+#foto2:hover {
+  transform: scale(1.5);
+}
+
+#flip:hover {
+  transform: scale(1.5);
+}
